@@ -1,0 +1,61 @@
+[
+  {
+    "EmployeeName": "Ahmed",
+    "Schedule": [
+      { "checkIn": "2022-08-24T12:32:33.945Z", "checkOut": "", "status": "OUT" }
+    ]
+  },
+  {
+    "EmployeeName": "Saba",
+    "Schedule": [
+      { "checkIn": "2022-08-24T12:32:33.945Z", "checkOut": "", "status": "IN" }
+    ]
+  },
+  {
+    "EmployeeName": "Mohammed",
+    "Schedule": [
+      { "checkIn": "2022-08-24T12:32:33.945Z", "checkOut": "", "status": "IN" }
+    ]
+  },
+  {
+    "EmployeeName": "Fahad",
+    "Schedule": [
+      { "checkIn": "2022-08-24T12:32:33.945Z", "checkOut": "", "status": "IN" }
+    ]
+  },
+  {
+    "EmployeeName": "Sana",
+    "Schedule": [
+      {
+        "checkIn": "2022-08-24T12:32:33.945Z",
+        "checkOut": "2022-08-24T16:32:33.945Z",
+        "status": "OUT"
+      },
+      {
+        "checkIn": "2022-08-24T12:32:33.945Z",
+        "checkOut": "2022-08-24T16:32:33.945Z",
+        "status": "OUT"
+      },
+      {
+        "checkIn": "2022-08-24T12:32:33.945Z",
+        "checkOut": "2022-08-24T16:32:33.945Z",
+        "status": "OUT"
+      },
+      {
+        "checkIn": "2022-08-24T12:32:33.945Z",
+        "checkOut": "2022-08-24T16:32:33.945Z",
+        "status": "OUT"
+      }
+    ]
+  },
+  {
+    "EmployeeName": "Asif",
+    "Schedule": [
+      {
+        "checkIn": "2022-08-24T12:32:33.945Z",
+        "checkOut": "2022-08-24T16:32:33.945Z",
+        "status": "OUT"
+      }
+    ]
+  }
+]
